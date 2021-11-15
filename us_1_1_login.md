@@ -23,7 +23,7 @@
 <td style="text-align:left;"><p>Details    </p></td>
 <td style="text-align:left;"><p>
 
-![Макет](https://up39.atlassian.net/4086871d-479f-4b29-af4c-4f98048833fd#media-blob-url=true&id=8d944d2f-62dd-4062-a128-5e42ca33ffcf&collection=contentId-36864026&contextId=36864026&mimeType=image%2Fpng&name=image-20210827-111306.png&size=1649039&width=1437&height=932&alt= "Логин")
+![Макет](../login.png "Логин")
 
 </p></td>
 </tr>

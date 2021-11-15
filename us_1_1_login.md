@@ -24,7 +24,10 @@
 <td style="text-align:left;"><p>
 
 <!-- ![Макет](../login.png "Логин") -->
-(../login.png)
+
+[image]: ../login.png "Логин"
+
+<!-- (../login.png) -->
 
 </p></td>
 </tr>

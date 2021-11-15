@@ -23,7 +23,8 @@
 <td style="text-align:left;"><p>Details    </p></td>
 <td style="text-align:left;"><p>
 
-![Макет](../login.png "Логин")
+<!-- ![Макет](../login.png "Логин") -->
+(../login.png)
 
 </p></td>
 </tr>

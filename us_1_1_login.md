@@ -1,6 +1,6 @@
 # US-1.1 Вход в систему
 
-Summary Вход в систему (Авторизация, Login)
+**Вход в систему (Авторизация, Login)**
 
 
 <table>
@@ -14,7 +14,7 @@ Summary Вход в систему (Авторизация, Login)
 
 <tbody>
 <tr>
-<td style="text-align:left;"><p>**Summary**    </p></td>
+<td style="text-align:left;"><p>Summary    </p></td>
 <td style="text-align:left;"><p>Вход в систему (Авторизация, Login)      </p></td>
 </tr>
 
@@ -35,12 +35,11 @@ Summary Вход в систему (Авторизация, Login)
 + Когда Пользователь ввёл логин и пароль на странице авторизации, у него появляется возможность заказа пиццы.
 </p>
 </td>
-<td style="text-align:left;"><p>1                   </p></td>
 </tr>
 
 <tr>
 <td style="text-align:left;"><p>Макеты в фигме   </p></td>
-<td style="text-align:left;"><p>(https://www.figma.com/proto/W3T93cqKzwE3F5W6koNzyR/Untitled?page-id=0%3A1&node-id=1%3A4&viewport=241%2C48%2C0.5&scaling=min-zoom&starting-point-node-id=1%3A4&show-proto-sidebar=1 "Ссылка на кликабельный макет")</p></td>
+<td style="text-align:left;"><p>Ссылка на кликабельный макет: https://www.figma.com/proto/W3T93cqKzwE3F5W6koNzyR/Untitled?page-id=0%3A1&node-id=1%3A4&viewport=241%2C48%2C0.5&scaling=min-zoom&starting-point-node-id=1%3A4&show-proto-sidebar=1</p></td>
 </tr>
 
 <tr>

@@ -29,8 +29,7 @@
 
 <!-- (../login.png) -->
 
-Внутри строки:  
-![Подпись к изображению](../login.png "Описание изображения")
+![Логин](https://github.com/vnkgd/markdown/blob/main/login.png "Login")
 
 </p></td>
 </tr>

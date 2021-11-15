@@ -1,17 +1,13 @@
 # US-1.1 Вход в систему
 
-**Вход в систему (Авторизация, Login) branch main**
+<<<<<<< HEAD
+**Вход в систему (Авторизация, Login)**
 
+=======
+**Вход в систему (Авторизация, Login) branch val**
+>>>>>>> val
 
 <table>
-<!-- <thead>
-<tr>
-<th id="заголовки" style="text-align:left;"> Summary     </th>
-<th id="столбцов" style="text-align:left;"> Столбцов             </th>
-<th id="отделяются_дефисами" style="text-align:left;"> Отделяются дефисами </th>
-</tr>
-</thead> -->
-
 <tbody>
 <tr>
 <td style="text-align:left;"><p>Summary    </p></td>
